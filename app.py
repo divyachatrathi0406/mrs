@@ -2,7 +2,7 @@ import pickle
 import numpy as np
 import streamlit as st
 import pandas as pd
-import scikit-learn
+import sklearn
 #============================================================
 # custome and helping functions
 #==========================helper funtions================
