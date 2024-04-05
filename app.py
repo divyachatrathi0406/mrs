@@ -74,7 +74,7 @@ if button:
     for m_i in med:
         st.text(str(i)+ ": "+ m_i)
         i += 1
-    st.text("=================workout==================")
+    st.text("=================lifestyle==================")
     for w_i in wrkout:
         st.text(str(i)+ ": "+ w_i)
         i += 1
