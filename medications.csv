@@ -26,6 +26,7 @@ Hepatitis E,"['Alcohol cessation', 'Corticosteroids', 'IV fluids', 'Liver transp
 Alcoholic hepatitis,"['Antibiotics', 'Isoniazid', 'Rifampin', 'Ethambutol', 'Pyrazinamide']"
 Tuberculosis,"['Antipyretics', 'Decongestants', 'Cough suppressants', 'Antihistamines', 'Pain relievers']"
 Common Cold,"['Antibiotics', 'Antiviral drugs', 'Antifungal drugs', 'IV fluids', 'Oxygen therapy']"
+Cold,"['Antibiotics', 'Antiviral drugs', 'Antifungal drugs', 'IV fluids', 'Oxygen therapy']"
 Pneumonia,"['Laxatives', 'Pain relievers', 'Warm baths', 'Cold compresses', 'High-fiber diet']"
 Dimorphic hemmorhoids(piles),"['Nitroglycerin', 'Aspirin', 'Beta-blockers', 'Calcium channel blockers', 'Thrombolytic drugs']"
 Heart attack,"['Compression stockings', 'Exercise', 'Elevating the legs', 'Sclerotherapy', 'Laser treatments']"
