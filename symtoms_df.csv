@@ -262,7 +262,7 @@
 260,Common Cold, continuous_sneezing, chills, fatigue, cough
 261,Common Cold, continuous_sneezing, chills, fatigue, cough
 262,Common Cold, chills, fatigue, cough, high_fever
-263,Common Cold, continuous_sneezing, fatigue, cough, high_fever
+263,Cold, continuous_sneezing, fatigue, cough, high_fever
 264,Common Cold, continuous_sneezing, chills, cough, high_fever
 265,Common Cold, continuous_sneezing, chills, fatigue, high_fever
 266,Common Cold, continuous_sneezing, chills, fatigue, cough
