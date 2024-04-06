@@ -74,11 +74,11 @@ if button:
     for m_i in med:
         st.text(str(i)+ ": "+ m_i)
         i += 1
-    st.text("=================lifestyle==================")
+    st.text("=================lifestyle====================")
     for w_i in wrkout:
         st.text(str(i)+ ": "+ w_i)
         i += 1
-    st.text("=================diets==================")
+    st.text("=================diets========================")
     for d_i in die:
         st.text(str(i)+ ": "+ d_i)
         i += 1
